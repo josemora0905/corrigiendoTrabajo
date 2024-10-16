@@ -15,3 +15,4 @@
 2. [Capítulo 1: Historia](Capitulo-1/README.md)
 3. [Capítulo 2: Generos](Capitulo-2/README.md)
 4. [Capítulo 3: Influencia](Capitulo-3/README.md)
+5. [Capítulo 4: Tendencias](Capitulo-4/README.md)
