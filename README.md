@@ -11,3 +11,4 @@
 ## Indice
 - [Introducción](introduccion/README.md)
 - [Capítulo 1: Historia](Capitulo-1/README.md)
+- [Capítulo 2: Generos](Capitulo-2/README.md)
