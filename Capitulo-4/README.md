@@ -18,4 +18,7 @@ La popularidad de los servicios de streaming como Spotify, Apple Music, YouTube 
 
 La música globalizada ha facilitado la colaboración entre artistas de distintas culturas, propiciando la creación de fusiones musicales innovadoras.
 
+## Autor
+- Jose David Mora
+
 [Volver al Índice](../README.md)
