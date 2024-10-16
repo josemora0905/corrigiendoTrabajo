@@ -12,3 +12,5 @@
 - [Introducción](introduccion/README.md)
 - [Capítulo 1: Historia](Capitulo-1/README.md)
 - [Capítulo 2: Generos](Capitulo-2/README.md)
+- [Capítulo 3: Influencia](Captiulo-3/README.md)
+- [Capítulo 4: Tendencias](Capitulo-4/REAMDE.md)
